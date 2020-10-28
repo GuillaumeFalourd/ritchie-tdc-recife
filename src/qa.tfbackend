@@ -1,0 +1,4 @@
+
+region = "sa-east-1"
+bucket = "ritchie-tdc-recife"
+key    = "terraform.tfstate"
